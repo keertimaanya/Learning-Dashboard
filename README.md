@@ -2,7 +2,7 @@
 
 A **production-grade learning dashboard** built with Next.js 14, React 18, TypeScript, and Framer Motion. Features GPU-accelerated animations, responsive design, comprehensive error handling, and Supabase integration.
 
-**🚀 Live Demo:** https://learning-dashboard-keil7edzs-keerti-s-projects1.vercel.app/
+**🚀 Live Demo:** https://learning-dashboard-psi-ruddy.vercel.app/
 
 ---
 
