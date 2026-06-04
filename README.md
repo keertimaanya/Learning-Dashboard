@@ -6,7 +6,7 @@ A **production-grade learning dashboard** built with Next.js 14, React 18, TypeS
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Animations & UI
 - **Hover Effects** - Scale transforms with glow and shadow effects (GPU-accelerated)
@@ -93,7 +93,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📊 Database Setup
+## Database Setup
 
 ### Create Courses Table
 
@@ -117,7 +117,7 @@ INSERT INTO courses (title, progress, icon_name) VALUES
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 | Breakpoint | Width | Layout | Navigation |
 |-----------|-------|--------|-----------|
@@ -127,7 +127,7 @@ INSERT INTO courses (title, progress, icon_name) VALUES
 
 ---
 
-## 🎨 Animation Architecture
+## Animation Architecture
 
 ### Hover Effects (GPU-Accelerated)
 ```typescript
@@ -157,7 +157,7 @@ layoutId="sidebar-active"
 
 ---
 
-## 🔒 Error Handling
+## Error Handling
 
 ### Error Boundary
 - Catches rendering errors in components
@@ -177,7 +177,7 @@ layoutId="sidebar-active"
 
 ---
 
-## 🌐 Environment Variables
+## Environment Variables
 
 Create `.env.local` with:
 
@@ -191,7 +191,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 .
@@ -217,7 +217,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ### Deploy to Vercel
 
@@ -234,7 +234,7 @@ Vercel automatically redeploys on every push to `main`.
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **Lighthouse Score** - 90+ (Performance, Accessibility, SEO)
 - **Build Time** - ~45 seconds on Vercel
@@ -244,7 +244,7 @@ Vercel automatically redeploys on every push to `main`.
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 Comprehensive guides included in `lib/`:
 
@@ -258,7 +258,7 @@ Comprehensive guides included in `lib/`:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -268,20 +268,13 @@ Comprehensive guides included in `lib/`:
 
 ---
 
-## 📝 License
+## License
 
 MIT License - feel free to use this project as a template or reference.
 
 ---
 
-## 👤 Author
-
-**Keerti Maanya**  
-GitHub: [@keertimaanya](https://github.com/keertimaanya)
-
----
-
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Next.js and Vercel for excellent deployment experience
 - Supabase for simple, scalable database
@@ -290,7 +283,7 @@ GitHub: [@keertimaanya](https://github.com/keertimaanya)
 
 ---
 
-## 📞 Support
+## Support
 
 For issues or questions:
 1. Check the [troubleshooting guides](./lib/) in `/lib` directory
@@ -299,4 +292,3 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using Next.js, React, and Framer Motion**
